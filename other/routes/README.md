@@ -33,3 +33,5 @@ https://github.com/mguzelevich/ncpi/blob/master/other/routes/route-27.geojson
 http://geojson.io/#
 
 http://geojson.io/#id=github:mguzelevich/ncpi/blob/master/other/routes/route-01.geojson&map=14/53.8685/27.5001
+
+icons set: https://www.mapbox.com/maki-icons/
