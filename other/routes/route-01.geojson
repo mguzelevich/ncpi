@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "small",
-        "marker-symbol": ""
+        "marker-symbol": "police"
       },
       "geometry": {
         "type": "Point",
